@@ -1,4 +1,6 @@
+//Computer's output display
 let comp = document.getElementById('comp');
+//Player's input display
 let my = document.getElementById('my');
 let compScore =document.getElementById('CompScore');
 let MyScore =document.getElementById('MyScore');
